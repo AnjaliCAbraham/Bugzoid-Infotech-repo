@@ -1,7 +1,7 @@
-# Programming Questions 2021
+# Programming Questions 2025
 You can contribute to this repo by adding Coding Questions with Solutions in any programming language
 
-# Hacktoberfest 2021
+# Hacktoberfest 2025
 ![img](https://hacktoberfest.digitalocean.com/share-card.png)
 
 A repository where you can upload any coding question with solutions in any language. Feel free to add your code here :)
